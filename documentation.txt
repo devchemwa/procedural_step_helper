@@ -1,0 +1,20 @@
+<---
+I sat down one day and decided to make this for fun.
+--->
+
+<---
+I'll document each and every day
+--->
+
+<---
+Day 1: creating the frontend part of the web application
+I'll use a lot of php. Bear with me. I'm dangerous. 
+I hope you read this after you laugh.
+
+A Challenges --> **
+Once solved --> ''
+
+Styling the user interface. It's too early, backend is still an obstacle to conquer.
+
+
+--->
